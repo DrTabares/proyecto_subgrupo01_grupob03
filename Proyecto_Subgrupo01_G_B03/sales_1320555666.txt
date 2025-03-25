@@ -1,0 +1,7 @@
+CC;1320555666;David Montoya
+ProductID;Sales Product Quantity
+5;3
+6;5
+6;1
+10;3
+7;2

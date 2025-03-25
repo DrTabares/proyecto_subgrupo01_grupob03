@@ -1,0 +1,7 @@
+CC;1220333444;Jorge Gimenez
+ProductID;Sales Product Quantity
+1;1
+5;4
+7;4
+9;3
+8;5

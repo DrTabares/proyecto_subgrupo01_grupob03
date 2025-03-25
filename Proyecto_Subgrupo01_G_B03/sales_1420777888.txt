@@ -1,0 +1,7 @@
+CC;1420777888;Levi Lopera
+ProductID;Sales Product Quantity
+2;1
+10;5
+1;5
+9;2
+8;2

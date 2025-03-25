@@ -1,0 +1,10 @@
+CC;1020111222;Pablo;Sepulveda
+CC;1020333444;Marco;Rendón
+CC;1020555666;Camilo;Restrepo
+CC;1020777888;Luis;Linares
+CC;1020999000;Arturo;Ferrero
+CC;1120111222;Jesús;Pineda
+CC;1220333444;Jorge;Gimenez
+CC;1320555666;David;Montoya
+CC;1420777888;Levi;Lopera
+CC;1520999000;Eren;Rusell

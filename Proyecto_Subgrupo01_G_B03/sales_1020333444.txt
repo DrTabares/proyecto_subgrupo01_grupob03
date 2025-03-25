@@ -1,0 +1,7 @@
+CC;1020333444;Marco Rendón
+ProductID;Sales Product Quantity
+1;1
+6;3
+2;2
+1;2
+9;4

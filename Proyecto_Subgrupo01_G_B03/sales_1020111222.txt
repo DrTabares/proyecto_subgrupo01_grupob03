@@ -1,0 +1,7 @@
+CC;1020111222;Pablo Sepulveda
+ProductID;Sales Product Quantity
+8;1
+10;2
+1;5
+3;5
+9;3

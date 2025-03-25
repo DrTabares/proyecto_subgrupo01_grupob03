@@ -1,0 +1,7 @@
+CC;1020555666;Camilo Restrepo
+ProductID;Sales Product Quantity
+1;4
+8;2
+9;5
+6;2
+2;1

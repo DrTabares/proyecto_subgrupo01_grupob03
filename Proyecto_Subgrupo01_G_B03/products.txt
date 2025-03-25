@@ -1,0 +1,10 @@
+1;Hats;16000
+2;Shoes;35000
+3;Flip flops;30000
+4;Dresses;33000
+5;Shoes;10000
+6;Hats;17000
+7;Shoes;5000
+8;Sunglasses;13000
+9;Flip flops;23000
+10;Shirts;42000

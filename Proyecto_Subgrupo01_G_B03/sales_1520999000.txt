@@ -1,0 +1,7 @@
+CC;1520999000;Eren Rusell
+ProductID;Sales Product Quantity
+10;3
+6;1
+6;3
+2;5
+1;5

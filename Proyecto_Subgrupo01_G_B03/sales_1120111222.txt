@@ -1,0 +1,7 @@
+CC;1120111222;Jesús Pineda
+ProductID;Sales Product Quantity
+3;3
+8;3
+9;2
+9;5
+3;5

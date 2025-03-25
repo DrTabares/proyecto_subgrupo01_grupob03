@@ -1,0 +1,7 @@
+CC;1020999000;Arturo Ferrero
+ProductID;Sales Product Quantity
+6;4
+8;1
+5;2
+4;5
+4;1
